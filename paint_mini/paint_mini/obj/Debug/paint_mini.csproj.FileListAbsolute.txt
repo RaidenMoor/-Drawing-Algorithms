@@ -1,0 +1,10 @@
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\bin\Debug\paint_mini.exe.config
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\bin\Debug\paint_mini.exe
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\bin\Debug\paint_mini.pdb
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\obj\Debug\paint_mini.csproj.AssemblyReference.cache
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\obj\Debug\paint_mini.Form1.resources
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\obj\Debug\paint_mini.Properties.Resources.resources
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\obj\Debug\paint_mini.csproj.GenerateResource.cache
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\obj\Debug\paint_mini.csproj.CoreCompileInputs.cache
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\obj\Debug\paint_mini.exe
+D:\5th semester\computer graphics\lr3\paint_mini\paint_mini\obj\Debug\paint_mini.pdb
